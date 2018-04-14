@@ -35,7 +35,8 @@ def dichotomie(E,f,a=0.25,b=0.5): # pour determiner kb
 def ux(eta):
     N,F,G,H=Blasius(kb,0.01,eta)
     return G[-1]
-    
+
+#on modifie comme on peut frerr
 
     
 
